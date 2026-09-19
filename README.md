@@ -1,6 +1,6 @@
-# Emotion Detection
+# Final Project - Emotion Detection
 
-This project uses IBM Watson Natural Language Processing to detect emotions from text.
+This Final Project uses IBM Watson Natural Language Processing to detect emotions from text.
 
 The application identifies the following emotions:
 
